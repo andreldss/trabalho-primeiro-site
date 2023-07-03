@@ -1,0 +1,25 @@
+:root {
+  --border-radius: 12px;
+  --logo-color: black;
+  --bg-secondary: #f3f5f6;
+  --text-dark: #737380;
+  --delete-color: #DE3838;
+  --blue-low: #034C8C;
+  --bg-primary: #f0f0f5;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.SocialMedia {
+  width: 50px;
+}
